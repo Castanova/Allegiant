@@ -1,0 +1,2 @@
+# Allegiant
+Allegiant Clan Bot
